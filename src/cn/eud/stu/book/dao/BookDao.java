@@ -100,7 +100,7 @@ public class BookDao {
     public void add(Book book) {
 
         try{
-            String sql="insert into book values(?,?,?,?,?,?)";
+            String sql="insert into book(bid,bname,price,author,image,cid) values(?,?,?,?,?,?)";
 
             Object[]params={book.getBid(),book.getBname(),book.getPrice(),
                     book.getAuthor(),book.getImage(),book.getCategory().getCid()};

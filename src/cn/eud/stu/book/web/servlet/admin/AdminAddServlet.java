@@ -113,6 +113,7 @@ public class AdminAddServlet extends HttpServlet {
              */
             Image image=new ImageIcon(destFile.getAbsolutePath()).getImage();
             if(image.getWidth(null)>200||image.getHeight(null)>200){
+                destFile.delete();//删除图片
                 request.setAttribute("msg","该图片尺寸超过200*200");
                 request.getRequestDispatcher("/adminjsps/msg.jsp")
                         .forward(request,response);
@@ -151,6 +152,7 @@ public class AdminAddServlet extends HttpServlet {
                         .forward(request,response);
                 return;
             }
+            e.printStackTrace();
         }
 
     }

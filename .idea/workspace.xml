@@ -7,93 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb74e54d-dfa5-4039-b3f8-352adf07a7a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/reference/项目.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/WEB-INF/classes/META-INF/TestBookStore.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/WEB-INF/classes/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/WEB-INF/classes/email_template.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/body.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/book/add.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/book/desc.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/book/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/category/add.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/category/del.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/category/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/category/mod.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/left.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/msg.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/order/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/admin/top.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/adminjsps/msg.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/abc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/bc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/bcc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/beijingnongshang.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/bh.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/bj.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/ccb.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/cib.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/cmb.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/cmbc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/dy.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/gf.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/guangda.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/hx.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/icbc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/nanjing.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/ningbo.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/pingan.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/post.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/sfz.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/sh.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/shpd.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/zheshang.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/bank_img/zx.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/0F552BDE1293488E8022EB8BA64B122D_B[97TX@1DE~WM34T8}HT47U.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/1BE1C4F6258B4F968E4F577080246AAB_timg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/20029394-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/20285763-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/20385925-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/22722790-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/22788412-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/37E4C8B000174FA79E5D18021C0D78D3_timg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/489694F3CE7D4D6289F60DF88AEE6B44_timg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/4DACF1090F834038A4FB44C93CC8F86B_捕获.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/8758723-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/8991366-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/8E9D94B95FB04EE39B90B8CF080D19B3_捕获.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/9265169-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/book_img/9317290-1_l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/images/all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/images/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/images/welcome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/body.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/book/desc.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/book/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/cart/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/left.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/msg.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/order/desc.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/order/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/order/msg.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/order/send.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/top.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/user/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/jsps/user/regist.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/menu/img/jia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/menu/img/jian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/menu/mymenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/menu/mymenu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TestBookStore_war_exploded/sql/bookstore.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/eud/stu/book/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/eud/stu/book/dao/BookDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/eud/stu/book/web/servlet/admin/AdminAddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/eud/stu/book/web/servlet/admin/AdminAddServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,48 +21,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/eud/stu/book/dao/BookDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="102" column="74" selection-start-line="102" selection-start-column="74" selection-end-line="102" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/eud/stu/book/web/servlet/admin/AdminAddServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1814">
-              <caret line="154" column="32" selection-start-line="154" selection-start-column="32" selection-end-line="154" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsps/book/desc.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-759" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/adminjsps/admin/book/add.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -239,95 +113,7 @@
             <path>
               <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stu" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stu" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stu" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="adminjsps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="adminjsps" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="adminjsps" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="book_img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jsps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jsps" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jsps" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +127,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/reference" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -351,6 +137,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\develop\java\idea\BookStore\web\reference" />
       <recent name="G:\develop\java\idea\TestBookStore\src\stu\user" />
       <recent name="G:\develop\java\idea\TestBookStore\web" />
       <recent name="G:\develop\java\idea\TestBookStore\src" />
@@ -484,7 +271,7 @@
       <workItem from="1555130472644" duration="1259000" />
       <workItem from="1555131867225" duration="15445000" />
       <workItem from="1555213798105" duration="9096000" />
-      <workItem from="1555227240843" duration="2277000" />
+      <workItem from="1555227240843" duration="3219000" />
     </task>
     <servers />
   </component>
@@ -494,22 +281,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28077000" />
+    <option name="totallyTimeSpent" value="29019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81840193" visible="true" weight="0.1603631" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81840193" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.18159807" side_tool="true" visible="true" weight="0.1603631" />
+      <window_info id="Web" order="7" sideWeight="0.18159807" side_tool="true" visible="true" weight="0.2602118" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3229508" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3229508" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -886,6 +673,18 @@
     <entry file="file://$PROJECT_DIR$/web/book_img/8758723-1_l.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/adminjsps/admin/book/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsps/book/desc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/eud/stu/book/web/servlet/admin/AdminAddServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1814">
@@ -896,22 +695,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsps/book/desc.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-759" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/adminjsps/admin/book/add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/eud/stu/book/dao/BookDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="102" column="74" selection-start-line="102" selection-start-column="74" selection-end-line="102" selection-end-column="74" />
+        <state relative-caret-position="2421">
+          <caret line="109" column="42" lean-forward="true" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb74e54d-dfa5-4039-b3f8-352adf07a7a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/reference/项目.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/email_template.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/email_template.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +21,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/email_template.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,10 +96,10 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/stu/user/web/userFilter.java" />
         <option value="$PROJECT_DIR$/src/stu/book/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/src/email_template.properties" />
         <option value="$PROJECT_DIR$/web/jsps/order/list.jsp" />
         <option value="$PROJECT_DIR$/src/cn/eud/stu/book/web/servlet/admin/AdminAddServlet.java" />
         <option value="$PROJECT_DIR$/src/cn/eud/stu/book/dao/BookDao.java" />
+        <option value="$PROJECT_DIR$/src/email_template.properties" />
       </list>
     </option>
   </component>
@@ -109,6 +128,11 @@
             <path>
               <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BookStore" type="b2602c69:ProjectViewProjectNode" />
@@ -271,7 +295,7 @@
       <workItem from="1555130472644" duration="1259000" />
       <workItem from="1555131867225" duration="15445000" />
       <workItem from="1555213798105" duration="9096000" />
-      <workItem from="1555227240843" duration="3219000" />
+      <workItem from="1555227240843" duration="4661000" />
     </task>
     <servers />
   </component>
@@ -281,19 +305,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29019000" />
+    <option name="totallyTimeSpent" value="30461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81840193" visible="true" weight="0.2602118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81840193" visible="true" weight="0.20953101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.18159807" side_tool="true" visible="true" weight="0.2602118" />
+      <window_info id="Web" order="7" sideWeight="0.18159807" side_tool="true" visible="true" weight="0.20953101" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3229508" />
@@ -378,13 +403,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="14" selection-start-line="13" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -577,7 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/email_template.properties" />
     <entry file="file://$PROJECT_DIR$/src/cn/eud/stu/user/web/servlet/UserServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4623">
@@ -702,6 +719,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/email_template.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
